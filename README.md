@@ -1,11 +1,7 @@
-# LeFrigoDesFourmis
-L'appli du futur
+# Le Frigo Des Fourmis
 
 
-Pour le moment pas grand chose
+[Planning](https://docs.google.com/spreadsheets/d/1zxSujRc3ozxfOgkNp1QNU_VUssCp0XBmv8i4vU9pQRo)
 
-Taches immédiates:
+[Diagramme de classes](https://drive.google.com/open?id=1yQ2yqACMMOybwHpVZHxuAmS0F-vT36LL6BKNOva6D-I/view?usp=sharing)
 
-1.Gantt  
-2.Logo  
-3.Maquette  
