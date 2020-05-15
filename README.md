@@ -1,4 +1,4 @@
-# Le Frigo Des Fourmis
+# Le Frigo Des :ant:
 
 
 [Planning](https://docs.google.com/spreadsheets/d/1zxSujRc3ozxfOgkNp1QNU_VUssCp0XBmv8i4vU9pQRo)
